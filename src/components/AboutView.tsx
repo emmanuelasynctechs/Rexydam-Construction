@@ -279,24 +279,23 @@ export const AboutView: React.FC<AboutViewProps> = ({ setActiveTab, openConsulta
                   </div>
                 </div>
 
-                <div className="p-5 pt-0 border-t border-brand-gray/50 mt-4 space-y-3">
-                  <div className="space-y-1.5">
-                    <span className="text-[9px] font-mono tracking-wider text-brand-slate/60 uppercase block">
-                      Accreditation
-                    </span>
-                    <div className="flex flex-col gap-1">
-                      {member.qualifications.map((qual, idx) => (
-                        <div key={idx} className="flex gap-2 items-start text-[10px] text-brand-slate leading-normal">
-                          <LucideIcon name="Award" className="text-brand-gold mt-0.5 flex-shrink-0" size={10} />
-                          <span>{qual}</span>
-                        </div>
-                      ))}
+                {member.id === "1" && (
+                  <div className="p-5 pt-0 border-t border-brand-gray/50 mt-4 space-y-3">
+                    <div className="space-y-1.5">
+                      <span className="text-[9px] font-mono tracking-wider text-brand-slate/60 uppercase block">
+                        Accreditation
+                      </span>
+                      <div className="flex flex-col gap-1">
+                        {member.qualifications.map((qual, idx) => (
+                          <div key={idx} className="flex gap-2 items-start text-[10px] text-brand-slate leading-normal">
+                            <LucideIcon name="Award" className="text-brand-gold mt-0.5 flex-shrink-0" size={10} />
+                            <span>{qual}</span>
+                          </div>
+                        ))}
+                      </div>
                     </div>
                   </div>
-                  <p className="text-[10px] text-brand-slate/60 font-mono pt-1">
-                    Contact: <span className="text-brand-blue font-bold">{member.email}</span>
-                  </p>
-                </div>
+                )}
               </div>
             ))}
           </div>
