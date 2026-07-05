@@ -144,8 +144,9 @@ export const Footer: React.FC<FooterProps> = ({ setActiveTab, openConsultation }
         {/* Accreditations Row */}
         <div className="flex flex-wrap items-center justify-between gap-6 border-b border-white/15 pb-8 mb-6">
           <div className="flex flex-wrap items-center gap-6">
-            <div className="px-4 py-1.5 bg-white/5 border border-white/10 rounded-lg text-[10px] font-mono uppercase tracking-widest text-white/80">
-              COREN REGISTERED No. R.14285
+            <div className="flex items-center gap-2 px-4 py-1.5 bg-white/5 border border-white/10 rounded-lg text-[10px] font-mono uppercase tracking-widest text-white/80">
+              <LucideIcon name="Check" className="text-emerald-500" size={12} />
+              <span>COREN REGISTERED</span>
             </div>
           </div>
           <p className="text-xs text-white/50">

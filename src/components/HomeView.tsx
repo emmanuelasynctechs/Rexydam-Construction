@@ -73,12 +73,13 @@ export const HomeView: React.FC<HomeViewProps> = ({ setActiveTab, openConsultati
         <div className="relative">
           <div className="absolute -top-4 -left-4 w-32 h-32 bg-brand-gold/15 rounded-3xl z-0"></div>
           <img
-            src="https://images.unsplash.com/photo-1581094288338-2314dddb7ecc?q=80&w=1200"
+            src="https://lh3.googleusercontent.com/pw/AP1GczMSOYFG1YQf1ZHQr3FE8sFkjZPOiorK_6ntkCtriQcRGdZy0LrSq5hr6zb5yqEoJ7hs5VpmYZ0H79xJTbexzplduSHdVULeLytpBw54653tBo6Fbdp-Zumdmu2xkpMGlKdrjfGOaV4KeoWuiK0lCnE=w829-h622-s-no-gm?authuser=4"
             alt="Engineers reviewing site drawings"
+            referrerPolicy="no-referrer"
             className="rounded-2xl shadow-xl relative z-10 w-full object-cover max-h-[420px]"
           />
           <div className="absolute -bottom-6 -right-6 bg-brand-blue text-white p-5 rounded-xl border border-brand-gold/20 shadow-xl hidden sm:block z-20 max-w-[240px]">
-            <p className="text-3xl font-display font-extrabold text-brand-gold">1.8M+</p>
+            <p className="text-2xl font-display font-extrabold text-brand-gold leading-tight uppercase">OVER A THOUSAND HOURS</p>
             <p className="text-[10px] font-mono tracking-wider uppercase text-white/85 mt-1 leading-normal">
               Safe Site Hours with Zero Accident Incidents
             </p>
