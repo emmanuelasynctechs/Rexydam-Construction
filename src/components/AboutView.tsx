@@ -11,7 +11,7 @@ export const AboutView: React.FC<AboutViewProps> = ({ setActiveTab, openConsulta
   const whyChooseUsData = [
     {
       title: "Years of Experience",
-      desc: "Founded in 2012, our senior directors bring over 24+ combined years of corporate project delivery.",
+      desc: "Our senior directors bring over 20 Years of professional project delivery.",
       iconName: "Calendar"
     },
     {
@@ -54,7 +54,7 @@ export const AboutView: React.FC<AboutViewProps> = ({ setActiveTab, openConsulta
             About Rexydam Nig Ltd
           </h2>
           <p className="text-xs sm:text-sm text-white/70 max-w-2xl mx-auto font-light leading-relaxed">
-            A trusted legacy of heavy civil infrastructure, sophisticated architectural planning, and structural design certified under COREN and ISO-9001 quality circles.
+            A trusted legacy of heavy civil infrastructure, sophisticated architectural planning, and structural design certified under COREN quality circles.
           </p>
         </div>
       </div>
@@ -66,12 +66,12 @@ export const AboutView: React.FC<AboutViewProps> = ({ setActiveTab, openConsulta
           <div className="relative group">
             <div className="absolute -top-3 -left-3 w-24 h-24 bg-brand-gold/20 rounded-2xl z-0"></div>
             <img
-              src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=1200"
+              src="https://lh3.googleusercontent.com/pw/AP1GczOzTFKv7S_ryGVC4sSFhC9p1HX5_6zhFvW04nPe9up7juaDHH9LybppErXLPVQ0fCiJ-N4RDrlKywtV44PpUFIrHz7ch90gjRDMK8MujksUmCy05Zln8fxWOOoKPxog8kkvIMxKImbyw3dqSm6zVGQ=w829-h622-s-no-gm?authuser=0"
               alt="Rexydam Civil Engineering Site Work"
               className="rounded-2xl shadow-xl relative z-10 w-full object-cover object-center max-h-[460px]"
             />
             <div className="absolute -bottom-6 -right-6 bg-brand-blue text-white p-5 rounded-2xl shadow-xl border border-brand-gold/25 z-20 hidden sm:block max-w-xs">
-              <p className="text-2xl font-display font-extrabold text-brand-gold">ISO 9001:2015</p>
+              <p className="text-xl font-display font-extrabold text-brand-gold uppercase">COREN Registered</p>
               <p className="text-[10px] font-mono tracking-wider text-white/80 uppercase mt-1">
                 Certified Structural Engineering Processes
               </p>
@@ -89,7 +89,7 @@ export const AboutView: React.FC<AboutViewProps> = ({ setActiveTab, openConsulta
             </div>
 
             <p className="text-sm sm:text-base text-brand-slate/85 leading-relaxed">
-              Established in 2012, REXYDAM NIG LTD arose from a profound engineering vision: to bridge the gap between creative architectural design and rigorous civil safety. In our fourteen years of active corporate operation, we have expanded from residential villas in Abuja into a multi-million-dollar engineering partner handling massive federal highway assets, state sea defense retaining systems, and iconic multi-story glass commercial centers.
+              REXYDAM NIG LTD arose from a profound engineering vision: to bridge the gap between creative architectural design and rigorous civil safety. In our twenty years of active corporate operation, we have expanded from residential villas in Abuja into a multi-million-dollar engineering partner handling massive federal highway assets, state sea defense retaining systems, and iconic multi-story glass commercial centers.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 pt-4">
@@ -262,12 +262,12 @@ export const AboutView: React.FC<AboutViewProps> = ({ setActiveTab, openConsulta
                 className="bg-white rounded-2xl overflow-hidden border border-brand-gray shadow-sm hover:shadow-lg transition-all duration-300 flex flex-col justify-between"
               >
                 <div>
-                  <div className="h-[280px] overflow-hidden relative bg-brand-blue">
+                  <div className="h-[360px] sm:h-[420px] overflow-hidden relative bg-brand-blue/5 flex items-center justify-center p-3">
                     <img
                       src={member.imageUrl}
                       alt={member.name}
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-cover object-top hover:scale-105 transition-transform duration-500"
+                      className="max-w-full max-h-full object-contain rounded-lg hover:scale-102 transition-transform duration-500 shadow-sm"
                     />
                   </div>
                   <div className="p-5 space-y-3">

@@ -20,7 +20,7 @@ export const SERVICES_DATA: Service[] = [
       "MEP (Mechanical, Electrical, Plumbing) Utility Integration",
       "Interior Drywalling, Finishes, and Quality Detailing"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=1200",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczOUYxDE2b45prqOj_DKb1m0FHPrk2IYysOYn8np5w5My3xra8yczI8adqnrHJByLcOsQRw2TLpSzSpbTC8ed25OqX9AToaqqlXAaSz8Y6m6mYOqsP4v7Q-GcN8nHencLMdcqVbH3XqW-pMBZogquwk=w829-h622-s-no-gm?authuser=0",
     subServices: [
       {
         name: "Residential Buildings",
@@ -67,7 +67,7 @@ export const SERVICES_DATA: Service[] = [
       "Concrete Formwork, Pouring, and Structural Curing",
       "Surfacing, Compacting, and Quality Inspections"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1590069261209-f8e9b8642343?q=80&w=1200",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczOzTFKv7S_ryGVC4sSFhC9p1HX5_6zhFvW04nPe9up7juaDHH9LybppErXLPVQ0fCiJ-N4RDrlKywtV44PpUFIrHz7ch90gjRDMK8MujksUmCy05Zln8fxWOOoKPxog8kkvIMxKImbyw3dqSm6zVGQ=w829-h622-s-no-gm?authuser=0",
     subServices: [
       {
         name: "Road Construction",
@@ -120,7 +120,7 @@ export const SERVICES_DATA: Service[] = [
       "Structural Detail Drafting & Steel Rebar Scheduling",
       "On-site Inspection of Reinforcements Prior to Casting"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=1200",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczOTHJ43OGVl1jgP9qtPZcWXJuBU-T8O1HBShiMbGNBbw91BJJD-qlbEiEFA0l2cAQ8sFCJa-mARKF9B5f_cLoUe_GsO7XGxuIqhmw-FcS4kN7K9ef7se19hBQsKjVjp3VXZEMRtVh6v-BVcyqhqGkk=w829-h622-s-no-gm?authuser=0",
     subServices: [
       {
         name: "Structural Design",
@@ -167,7 +167,7 @@ export const SERVICES_DATA: Service[] = [
       "Daily Quality Gate Audits and Safety Briefings",
       "Client Walkthroughs, Defect Rectification, and Handover"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1581094288338-2314dddb7ecc?q=80&w=1200",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczOUYxDE2b45prqOj_DKb1m0FHPrk2IYysOYn8np5w5My3xra8yczI8adqnrHJByLcOsQRw2TLpSzSpbTC8ed25OqX9AToaqqlXAaSz8Y6m6mYOqsP4v7Q-GcN8nHencLMdcqVbH3XqW-pMBZogquwk=w829-h622-s-no-gm?authuser=0",
     subServices: [
       {
         name: "Project Planning",
@@ -220,7 +220,7 @@ export const SERVICES_DATA: Service[] = [
       "Modern Utility Laying & Smart Insulated Refitting",
       "Architectural Wall-Cladding, Lighting, and Modern Finishes"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=1200",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczOzTFKv7S_ryGVC4sSFhC9p1HX5_6zhFvW04nPe9up7juaDHH9LybppErXLPVQ0fCiJ-N4RDrlKywtV44PpUFIrHz7ch90gjRDMK8MujksUmCy05Zln8fxWOOoKPxog8kkvIMxKImbyw3dqSm6zVGQ=w829-h622-s-no-gm?authuser=0",
     subServices: [
       {
         name: "Building Renovation",
@@ -267,7 +267,7 @@ export const SERVICES_DATA: Service[] = [
       "Photorealistic Rendering & Virtual Reality Interior Models",
       "Technical Construction Documentation & Structural Drafting Coordination"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=1200",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczOTHJ43OGVl1jgP9qtPZcWXJuBU-T8O1HBShiMbGNBbw91BJJD-qlbEiEFA0l2cAQ8sFCJa-mARKF9B5f_cLoUe_GsO7XGxuIqhmw-FcS4kN7K9ef7se19hBQsKjVjp3VXZEMRtVh6v-BVcyqhqGkk=w829-h622-s-no-gm?authuser=0",
     subServices: [
       {
         name: "Building Design",
@@ -314,7 +314,7 @@ export const SERVICES_DATA: Service[] = [
       "Detailed Quantity Sizing, Estimating, and Financial Calculations",
       "Formal Engineering Report Submission & Board Presentations"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1581094288338-2314dddb7ecc?q=80&w=1200",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczOUYxDE2b45prqOj_DKb1m0FHPrk2IYysOYn8np5w5My3xra8yczI8adqnrHJByLcOsQRw2TLpSzSpbTC8ed25OqX9AToaqqlXAaSz8Y6m6mYOqsP4v7Q-GcN8nHencLMdcqVbH3XqW-pMBZogquwk=w829-h622-s-no-gm?authuser=0",
     subServices: [
       {
         name: "Engineering Consultancy",
@@ -346,113 +346,97 @@ export const SERVICES_DATA: Service[] = [
 
 export const PROJECTS_DATA: Project[] = [
   {
-    id: "project-1",
-    title: "Building Construction",
-    category: "Commercial",
-    client: "Rexydam Development",
-    location: "Abuja, Nigeria",
-    year: "2026",
-    size: "Standard Site",
-    value: "Premium",
-    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczOzTFKv7S_ryGVC4sSFhC9p1HX5_6zhFvW04nPe9up7juaDHH9LybppErXLPVQ0fCiJ-N4RDrlKywtV44PpUFIrHz7ch90gjRDMK8MujksUmCy05Zln8fxWOOoKPxog8kkvIMxKImbyw3dqSm6zVGQ=w871-h653-s-no-gm?authuser=4",
-    summary: "Building Construction",
-    description: "Building Construction",
-    challenges: [],
-    solutions: [],
-    scope: []
-  },
-  {
-    id: "project-2",
-    title: "Building Construction",
+    id: "project-10",
+    title: "4 units of 2 bedroom terrace",
     category: "Residential",
-    client: "Rexydam Development",
-    location: "Abuja, Nigeria",
+    client: "Pennek Estate",
+    location: "Pennek Estate, Ajah, Lagos",
     year: "2026",
-    size: "Standard Site",
+    size: "4 Units",
     value: "Premium",
-    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczNSpViTho4yqEgoTpMxahGKer0Y14fP4T3XGu-sF7rXVTRNa4Hf5mNFe5NF9BkVTGMfzqqZiBZXDFcb82oi1GwxWLUEBreGNO-tN9fwD_gucbNkOi8w8PLvrW7wz1EKFvrYXePozB5jXpcYPj7wQ0s=w871-h653-s-no-gm?authuser=4",
-    summary: "Building Construction",
-    description: "Building Construction",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczOTHJ43OGVl1jgP9qtPZcWXJuBU-T8O1HBShiMbGNBbw91BJJD-qlbEiEFA0l2cAQ8sFCJa-mARKF9B5f_cLoUe_GsO7XGxuIqhmw-FcS4kN7K9ef7se19hBQsKjVjp3VXZEMRtVh6v-BVcyqhqGkk=w829-h622-s-no-gm?authuser=0",
+    summary: "4 units of 2 bedroom terrace @ PENNEK ESTATE AJAH LAGOS.",
+    description: "Premium quality modern terrace buildings featuring high-end architectural finishes and robust foundation engineering.",
     challenges: [],
     solutions: [],
     scope: []
   },
   {
-    id: "project-3",
-    title: "Building Construction",
-    category: "Industrial",
-    client: "Rexydam Development",
-    location: "Abuja, Nigeria",
-    year: "2026",
-    size: "Standard Site",
-    value: "Premium",
-    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczOUYxDE2b45prqOj_DKb1m0FHPrk2IYysOYn8np5w5My3xra8yczI8adqnrHJByLcOsQRw2TLpSzSpbTC8ed25OqX9AToaqqlXAaSz8Y6m6mYOqsP4v7Q-GcN8nHencLMdcqVbH3XqW-pMBZogquwk=w871-h653-s-no-gm?authuser=4",
-    summary: "Building Construction",
-    description: "Building Construction",
-    challenges: [],
-    solutions: [],
-    scope: []
-  },
-  {
-    id: "project-4",
-    title: "Building Construction",
-    category: "Engineering",
-    client: "Rexydam Development",
-    location: "Abuja, Nigeria",
-    year: "2026",
-    size: "Standard Site",
-    value: "Premium",
-    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczP8fp6LxnRjPsQc_451bKwwxQWJDXjBxBhKuSuKhpGhnbDFuhQCmPxtoagny1Heeyj35okK_sN2xXHv80cPPPZb44w9KPMyWq7LSREBav5xS1VPz43nmBqUjXVkiC_K_On188kQTxLLYt6zFpGXCx4=w871-h653-s-no-gm?authuser=4",
-    summary: "Building Construction",
-    description: "Building Construction",
-    challenges: [],
-    solutions: [],
-    scope: []
-  },
-  {
-    id: "project-5",
-    title: "Building Construction",
-    category: "Architecture",
-    client: "Rexydam Development",
-    location: "Abuja, Nigeria",
-    year: "2026",
-    size: "Standard Site",
-    value: "Premium",
-    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczPY_3PnGG3nDihA4n7U952cSCGT2AsOfGPoRcOPP0TwU3g04U41tYvGRc2q0TtLZXA9XZE-vSpKmZk74xyCt9Ey_9lwblYk4lZwYZQwKvAjYegH4BNTECe-722yQ7flCuY08FsOxCJGfqSiuAOUVro=w871-h653-s-no-gm?authuser=4",
-    summary: "Building Construction",
-    description: "Building Construction",
-    challenges: [],
-    solutions: [],
-    scope: []
-  },
-  {
-    id: "project-6",
-    title: "Building Construction",
-    category: "Commercial",
-    client: "Rexydam Development",
-    location: "Abuja, Nigeria",
-    year: "2026",
-    size: "Standard Site",
-    value: "Premium",
-    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczPeLrnvg8iikoTJEzxCY2Wv7zPpQtJ6Rn92mC7LjHkgisxWmhouZRdSdtqALn4yjemSv5cjrtexzscOJV2bnnAubY1wz3LlRIkUqx8LS2agCstp5vySkcVTEKP2m1W0t8n6SkZW7NQiEq6sWhvivyw=w871-h653-s-no-gm?authuser=4",
-    summary: "Building Construction",
-    description: "Building Construction",
-    challenges: [],
-    solutions: [],
-    scope: []
-  },
-  {
-    id: "project-7",
-    title: "Building Construction",
+    id: "project-11",
+    title: "5 units of 3 bedroom terrace",
     category: "Residential",
-    client: "Rexydam Development",
-    location: "Abuja, Nigeria",
+    client: "Pennek Estate",
+    location: "Pennek Estate, Ajah, Lagos",
     year: "2026",
-    size: "Standard Site",
+    size: "5 Units",
     value: "Premium",
-    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczP-VFVgE-RUugfjRAv8ZHArerQ-Nb_LIOtp1VGpRWYsiqeBAaUicxtfGtVYUTyqnRJ_x6ynDdbFTSqRlQzYyatyY00w1v7Dp44kc49sgcW3TxiDBq3pKQnvqGVODcfhqmI6ZpPu6m60-eScQt7eOE8=w490-h653-s-no-gm?authuser=4",
-    summary: "Building Construction",
-    description: "Building Construction",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczOLKXO8Omhp8u5q8DPmXbJ3WVpmt2Z_FCr_zdPq4eO-bYkmu5ACLtVH7cDC1R1x9H10oC-ZcGcbPgwdxbf7MaREXR9ywbyThIEwInIqxeuUgcRfhCBMJ50QYHBA1HO-EP5SZDoZYEy0V7sW23doAJg=w829-h622-s-no-gm?authuser=0",
+    summary: "5 units of 3 bedroom terrace @ PENNEK ESTATE AJAH LAGOS.",
+    description: "Sophisticated multi-family housing development built with rigorous quality assurance and superior structural craftsmanship.",
+    challenges: [],
+    solutions: [],
+    scope: []
+  },
+  {
+    id: "project-12",
+    title: "4 units of 5 bedroom terrace",
+    category: "Residential",
+    client: "Mixta Africa",
+    location: "Mixta Africa, Beechwood Estate, Ikeja Lekki, Lagos",
+    year: "2025",
+    size: "4 Units",
+    value: "Premium",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczMThGWyKHMUxkEjCo5EoACNvRoBsynuxeSC_kQh7DFlNVwEKIXFQ838l0y3TO72-8kVJwnbkhXWzY5EGpY_5PDB7lcSmGrCtewuFSA6JGXkM7rREUBneWDeDBOj5PkTiq9nbACgjy2J8kLgT6tnUDw=w622-h622-s-no-gm?authuser=0",
+    summary: "4 units of 5 bedroom terrace @ Mixta Africa, beechwood estate, Ikeja lekki, Lagos",
+    description: "Luxury living spaces with detailed structural specifications, reinforced columns, and expansive elegant styling.",
+    challenges: [],
+    solutions: [],
+    scope: []
+  },
+  {
+    id: "project-13",
+    title: "4 bedroom semi-detached",
+    category: "Residential",
+    client: "Mixta Africa",
+    location: "Mixta Africa, Ajah, Lagos",
+    year: "2026",
+    size: "Premium Residence",
+    value: "Premium",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczNSpViTho4yqEgoTpMxahGKer0Y14fP4T3XGu-sF7rXVTRNa4Hf5mNFe5NF9BkVTGMfzqqZiBZXDFcb82oi1GwxWLUEBreGNO-tN9fwD_gucbNkOi8w8PLvrW7wz1EKFvrYXePozB5jXpcYPj7wQ0s=w829-h622-s-no-gm?authuser=0",
+    summary: "4 bedroom semi-detached @ Mixta Africa, AJAH LAGOS.",
+    description: "Modern structural design with beautifully finished interiors, top-grade concrete mix ratios, and complete architectural balance.",
+    challenges: [],
+    solutions: [],
+    scope: []
+  },
+  {
+    id: "project-8",
+    title: "Road Construction",
+    category: "Road Construction",
+    client: "Federal Ministry of Works",
+    location: "Nigeria",
+    year: "2026",
+    size: "12 km Dual Carriageway",
+    value: "Premium",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczNfoEGpPJ279a_mNKj68zQbP2PJZRcroH8O3wghxWK6Zhs68eRW71Mdmye9ZfqmK_zemZpogHAAinArMst_D8kIhHssOS_RqWgtnVqNXRU6dMAH2rMW3AeZtg_TTdZC48AnvR3Ip0fXaebIzeVG7ms=w933-h622-s-no-gm?authuser=0",
+    summary: "Road construction",
+    description: "State-of-the-art asphaltic concrete pavement and heavy-duty highway layout.",
+    challenges: [],
+    solutions: [],
+    scope: []
+  },
+  {
+    id: "project-9",
+    title: "Road Construction",
+    category: "Road Construction",
+    client: "State Government",
+    location: "Nigeria",
+    year: "2025",
+    size: "8.5 km Dual Carriageway",
+    value: "Premium",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczNHvmACmvovQ-HNXKRfglbzrOdea9qel0-0XxQKgmP59LWUe2DZwtqzgre7UtTgiHNQWNIJGmebULWUPOSnVkYxPsnDqbPE5uc1X9TdJeP4lmm7D03v3RLlHUTBT2SJ8-aXep3jkTXabpMnYt3LXs8=w933-h622-s-no-gm?authuser=0",
+    summary: "Road construction",
+    description: "Rigid concrete pavement construction designed for maximum structural endurance under multi-ton cargo trucks.",
     challenges: [],
     solutions: [],
     scope: []
@@ -462,40 +446,40 @@ export const PROJECTS_DATA: Project[] = [
 export const TESTIMONIALS_DATA: Testimonial[] = [
   {
     id: "1",
-    name: "Engr. Charles Adeleke",
-    role: "Director of Infrastructure Development",
-    company: "Lagos State Infrastructure Council",
-    avatarUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150",
+    name: "Charles Adeleke",
+    role: "",
+    company: "",
+    avatarUrl: "https://lh3.googleusercontent.com/pw/AP1GczOUYxDE2b45prqOj_DKb1m0FHPrk2IYysOYn8np5w5My3xra8yczI8adqnrHJByLcOsQRw2TLpSzSpbTC8ed25OqX9AToaqqlXAaSz8Y6m6mYOqsP4v7Q-GcN8nHencLMdcqVbH3XqW-pMBZogquwk=w829-h622-s-no-gm?authuser=0",
     rating: 5,
     quote: "REXYDAM NIG LTD exceeded all our expectations on the Lekki commercial projects. Their structural engineering team solved complex coastal foundation problems that had stalled other general contractors for months. Absolute professionals from start to finish.",
     projectAssociated: "The Royal Crest Plaza"
   },
   {
     id: "2",
-    name: "Dr. Aliyu Olanrewaju",
-    role: "Private Investor & Client",
-    company: "Apex Healthcare Holdings",
-    avatarUrl: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=150",
+    name: "Aliyu Olanrewaju",
+    role: "",
+    company: "",
+    avatarUrl: "https://lh3.googleusercontent.com/pw/AP1GczOzTFKv7S_ryGVC4sSFhC9p1HX5_6zhFvW04nPe9up7juaDHH9LybppErXLPVQ0fCiJ-N4RDrlKywtV44PpUFIrHz7ch90gjRDMK8MujksUmCy05Zln8fxWOOoKPxog8kkvIMxKImbyw3dqSm6zVGQ=w829-h622-s-no-gm?authuser=0",
     rating: 5,
     quote: "As a client who demands absolute design perfection, I was amazed by REXYDAM's architectural fusion. They listened to my organic hill design concept and delivered a jaw-dropping structural masterpiece that stays completely cool in the Abuja heat.",
     projectAssociated: "Apex Modernist Pavilion"
   },
   {
     id: "3",
-    name: "Arch. Sarah Ibrahim",
-    role: "Principal Partner",
-    company: "Vanguard Design Consultants",
-    avatarUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=150",
+    name: "Sarah Ibrahim",
+    role: "",
+    company: "",
+    avatarUrl: "https://lh3.googleusercontent.com/pw/AP1GczOTHJ43OGVl1jgP9qtPZcWXJuBU-T8O1HBShiMbGNBbw91BJJD-qlbEiEFA0l2cAQ8sFCJa-mARKF9B5f_cLoUe_GsO7XGxuIqhmw-FcS4kN7K9ef7se19hBQsKjVjp3VXZEMRtVh6v-BVcyqhqGkk=w829-h622-s-no-gm?authuser=0",
     rating: 5,
     quote: "We have partnered with REXYDAM on multiple high-value commercial builds. Their structural drawings are extraordinarily precise, and their project managers maintain absolute transparency with budgets and materials. They are our go-to contractor.",
     projectAssociated: "Elysium Smart Luxury Estates"
   },
   {
     id: "4",
-    name: "Senator Kunle Falola",
-    role: "Chairman on Highway Works",
-    company: "Federal Infrastructure Committee",
-    avatarUrl: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=150",
+    name: "Kunle Falola",
+    role: "",
+    company: "",
+    avatarUrl: "https://lh3.googleusercontent.com/pw/AP1GczOUYxDE2b45prqOj_DKb1m0FHPrk2IYysOYn8np5w5My3xra8yczI8adqnrHJByLcOsQRw2TLpSzSpbTC8ed25OqX9AToaqqlXAaSz8Y6m6mYOqsP4v7Q-GcN8nHencLMdcqVbH3XqW-pMBZogquwk=w829-h622-s-no-gm?authuser=0",
     rating: 5,
     quote: "The rigid concrete pavement constructed by REXYDAM on the Enugu Route has held up perfectly under intense tropical heat and endless multi-ton freight trucks. On-time and on-budget delivery is rare in public works—REXYDAM achieved it flawlessly.",
     projectAssociated: "Golden Gate Federal Highway"
@@ -508,7 +492,7 @@ export const TEAM_MEMBERS_DATA: TeamMember[] = [
     name: "Engr. Adejuwon Kolade E., MNSE, MNICE",
     role: "CEO, Chairman & Principal Engineering Director",
     bio: "Engr. Adejuwon Kolade E. is a distinguished civil and structural engineering leader. As CEO, Chairman & Principal Engineering Director of REXYDAM NIG LTD, he steers our strategic direction, structural design approvals, and project safety standards. His extensive career is defined by delivering elite residential, commercial, and highway infrastructure works with zero compromise on engineering integrity.",
-    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczMUxd88OfwnHOcRe3WVI_daIetnWWqdOVLp5Wtd9uYqrzcZsZ5QOc3eL7g8FCCjJF96V6-mXD59uHX_3i1mzWWmxulwuAPPb38l6NwEDeuxVKVVmqQjeTqfPRdbYf8cZv4eJlzHvVbmMYP0D-MgCHA=w717-h653-s-no-gm?authuser=4",
+    imageUrl: "https://lh3.googleusercontent.com/pw/AP1GczMpBE6XZCehE-I5LQr4XWKBSEoI5IYRf8gUob_sUo6xszfBhPBBR0wZeWzyHucGeJv3ReeMV4T-5s8Z93bkUZx3BGuu7Z7WPBKSwSdat9S-LKA1eDsvxXEs5QETLwO6hOYfq-SGxVVT6J0PXdYb1EU=w395-h622-s-no-gm?authuser=0",
     qualifications: [
       "B.Sc in Civil Engineering",
       "COREN Registered Engineer",
@@ -536,7 +520,7 @@ export const TEAM_MEMBERS_DATA: TeamMember[] = [
 
 export const TIMELINE_DATA: TimelineEvent[] = [
   {
-    year: "2012",
+    year: "2006",
     title: "Company Foundation",
     description: "REXYDAM NIG LTD was incorporated, beginning operations with a small team of passionate structural engineers and architects focused on private residential developments in Abuja."
   },

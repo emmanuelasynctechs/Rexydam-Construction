@@ -72,7 +72,7 @@ export const ProjectsView: React.FC = () => {
                   <div className="h-[280px] overflow-hidden relative bg-brand-dark select-none">
                     <img
                       src={project.imageUrl}
-                      alt="building construction"
+                      alt={project.title.toLowerCase()}
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover"
                     />
@@ -89,8 +89,13 @@ export const ProjectsView: React.FC = () => {
                   {/* Body Content */}
                   <div className="p-6 text-center">
                     <h4 className="font-display font-extrabold text-base text-brand-blue uppercase tracking-wider">
-                      BUILDING CONSTRUCTION
+                      {project.title}
                     </h4>
+                    {project.location && (
+                      <p className="text-xs text-brand-slate/70 font-mono mt-1 uppercase tracking-wider">
+                        {project.location}
+                      </p>
+                    )}
                   </div>
                 </div>
               </motion.div>

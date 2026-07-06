@@ -300,7 +300,7 @@ export const QuoteConstructor: React.FC<{ onClose?: () => void }> = ({ onClose }
                 <div className="space-y-4">
                   <h4 className="text-lg font-display font-bold text-brand-blue mb-1">Representative Contact Details</h4>
                   <p className="text-xs text-brand-slate mb-3">
-                    Your details will remain strictly confidential and secured in accordance with international ISO structural auditing protocols.
+                    Your details will remain strictly confidential and secured in accordance with international structural auditing protocols.
                   </p>
 
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -403,7 +403,7 @@ export const QuoteConstructor: React.FC<{ onClose?: () => void }> = ({ onClose }
                 </div>
                 <div className="flex justify-between items-center border-b border-white/15 pb-2 mb-2 font-mono text-[10px] text-brand-gold-light tracking-widest uppercase">
                   <span>Rexydam Vault Record</span>
-                  <span>Verified ISO-9001</span>
+                  <span>Verified COREN</span>
                 </div>
                 <p className="text-xs text-white/80">Ref Number:</p>
                 <p className="font-mono text-xl font-bold text-brand-gold tracking-widest">{quoteReference}</p>

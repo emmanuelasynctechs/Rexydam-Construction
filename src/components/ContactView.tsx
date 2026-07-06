@@ -69,7 +69,6 @@ export const ContactView: React.FC = () => {
               <div>
                 <h4 className="font-display font-extrabold text-sm text-brand-blue uppercase tracking-wider">Electronic Inboxes</h4>
                 <p className="text-sm text-brand-slate/85 mt-2 leading-relaxed font-mono">
-                  Tenders: registry@rexydamnig.com<br />
                   General: info@rexydamnig.com
                 </p>
               </div>

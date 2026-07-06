@@ -179,7 +179,7 @@ export const Header: React.FC<HeaderProps> = ({
               <LucideIcon name="Mail" size={16} /> CONTACT US
             </button>
             <p className="text-[10px] text-center text-white/40 font-mono">
-              ISO 9001:2015 CERTIFIED • COREN REGISTERED
+              COREN REGISTERED
             </p>
           </div>
         </div>

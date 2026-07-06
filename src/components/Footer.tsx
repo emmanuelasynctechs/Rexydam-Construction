@@ -106,8 +106,8 @@ export const Footer: React.FC<FooterProps> = ({ setActiveTab, openConsultation }
                 </button>
               </li>
               <li>
-                <button onClick={openConsultation} className="text-brand-gold hover:text-brand-gold-light transition-colors text-left font-bold py-1 flex items-center gap-1.5">
-                  Request Estimation <LucideIcon name="TrendingUp" size={12} />
+                <button onClick={() => handleNavClick("contact")} className="text-brand-gold hover:text-brand-gold-light transition-colors text-left font-bold py-1 flex items-center gap-1.5">
+                  Contact Us <LucideIcon name="Mail" size={12} />
                 </button>
               </li>
             </ul>

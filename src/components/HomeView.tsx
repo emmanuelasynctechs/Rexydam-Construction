@@ -30,9 +30,9 @@ export const HomeView: React.FC<HomeViewProps> = ({ setActiveTab, openConsultati
 
   // Why Choose Us highlights
   const whyChooseUsShort = [
-    { title: "24+ Years Experience", desc: "Decades of deep civil & structural expertise across Nigeria.", icon: "Calendar" },
+    { title: "20 Years Experience", desc: "Decades of deep civil & structural expertise across Nigeria.", icon: "Calendar" },
     { title: "Qualified Engineers", desc: "NSE Members and COREN registered principal directors.", icon: "HardHat" },
-    { title: "Quality Assurance", desc: "ISO 9001:2015 process compliance and slump crash testing.", icon: "Award" },
+    { title: "Quality Assurance", desc: "Rigorous standards compliance and slump crash testing.", icon: "Award" },
     { title: "Latest Equipment", desc: "Large fleet of 3D laser graders, cranes, and heavy excavation machinery.", icon: "Cpu" },
     { title: "Transparent Pricing", desc: "No hidden variation costs. Honest, detailed Bill of Quantities.", icon: "DollarSign" },
     { title: "Reliable Delivery", desc: "Strict adherence to Critical Path Method (CPM) timelines.", icon: "ClipboardCheck" }
@@ -79,7 +79,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ setActiveTab, openConsultati
             className="rounded-2xl shadow-xl relative z-10 w-full object-cover max-h-[420px]"
           />
           <div className="absolute -bottom-6 -right-6 bg-brand-blue text-white p-5 rounded-xl border border-brand-gold/20 shadow-xl hidden sm:block z-20 max-w-[240px]">
-            <p className="text-2xl font-display font-extrabold text-brand-gold leading-tight uppercase">OVER A THOUSAND HOURS</p>
+            <p className="text-2xl font-display font-extrabold text-brand-gold leading-tight uppercase">OVER 25,000 HOURS</p>
             <p className="text-[10px] font-mono tracking-wider uppercase text-white/85 mt-1 leading-normal">
               Safe Site Hours with Zero Accident Incidents
             </p>
@@ -209,7 +209,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ setActiveTab, openConsultati
                 <div className="h-[220px] overflow-hidden relative bg-brand-dark select-none">
                   <img
                     src={project.imageUrl}
-                    alt="building construction"
+                    alt={project.title.toLowerCase()}
                     referrerPolicy="no-referrer"
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   />
@@ -226,8 +226,13 @@ export const HomeView: React.FC<HomeViewProps> = ({ setActiveTab, openConsultati
                 {/* Body content showing only building construction */}
                 <div className="p-6 text-center">
                   <h4 className="font-display font-extrabold text-base text-brand-blue uppercase tracking-wider group-hover:text-brand-gold transition-colors">
-                    BUILDING CONSTRUCTION
+                    {project.title}
                   </h4>
+                  {project.location && (
+                    <p className="text-xs text-brand-slate/70 font-mono mt-1 uppercase tracking-wider">
+                      {project.location}
+                    </p>
+                  )}
                 </div>
               </div>
             </div>
@@ -300,9 +305,6 @@ export const HomeView: React.FC<HomeViewProps> = ({ setActiveTab, openConsultati
                   <h4 className="font-display font-bold text-sm text-white">
                     {TESTIMONIALS_DATA[activeTestimonialIdx].name}
                   </h4>
-                  <p className="text-[10px] text-white/60">
-                    {TESTIMONIALS_DATA[activeTestimonialIdx].role} at <span className="text-brand-gold font-bold">{TESTIMONIALS_DATA[activeTestimonialIdx].company}</span>
-                  </p>
                   
                   {/* Star Ratings */}
                   <div className="flex gap-1 mt-1 text-brand-gold-light">
@@ -353,19 +355,12 @@ export const HomeView: React.FC<HomeViewProps> = ({ setActiveTab, openConsultati
           </p>
           <div className="flex flex-wrap gap-4 justify-center items-center">
             <button
-              onClick={openConsultation}
-              id="cta-request-quote-btn"
-              className="px-8 py-3.5 rounded-xl bg-brand-gold hover:bg-brand-gold-light text-white font-display text-sm font-bold uppercase tracking-wider transition-colors shadow-lg shadow-brand-gold/20 flex items-center gap-2"
-            >
-              Request a Quote <LucideIcon name="Calculator" size={16} />
-            </button>
-            <button
               onClick={() => {
                 setActiveTab("contact");
                 window.scrollTo({ top: 0, behavior: "smooth" });
               }}
               id="cta-contact-btn"
-              className="px-8 py-3.5 rounded-xl bg-white/10 hover:bg-white/15 text-white font-display text-sm font-bold uppercase tracking-wider transition-colors border border-white/20 hover:border-brand-gold flex items-center gap-2"
+              className="px-8 py-3.5 rounded-xl bg-brand-gold hover:bg-brand-gold-light text-white font-display text-sm font-bold uppercase tracking-wider transition-colors shadow-lg shadow-brand-gold/20 flex items-center gap-2"
             >
               Contact Us <LucideIcon name="Mail" size={16} />
             </button>
