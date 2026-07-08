@@ -31,17 +31,15 @@ export const Footer: React.FC<FooterProps> = ({ setActiveTab, openConsultation }
               REXYDAM NIG LTD is a premier, multi-disciplinary construction, structural engineering, and corporate project management firm. We combine mechanical precision with luxurious architectural concepts to build the landmarks of tomorrow.
             </p>
             <div className="flex gap-3 pt-2">
-              {["Facebook", "Twitter", "Linkedin", "Instagram"].map((social) => (
-                <a
-                  key={social}
-                  href="#"
-                  onClick={(e) => e.preventDefault()}
-                  className="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center hover:bg-brand-gold hover:text-white transition-all duration-300 text-white/60"
-                  title={social}
-                >
-                  <LucideIcon name={social === "Linkedin" ? "Briefcase" : "Award"} size={14} />
-                </a>
-              ))}
+              <a
+                href="https://www.facebook.com/share/19GJZj42sx/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center hover:bg-brand-gold hover:text-white transition-all duration-300 text-white/60"
+                title="Facebook"
+              >
+                <LucideIcon name="Facebook" size={14} />
+              </a>
             </div>
           </div>
 
